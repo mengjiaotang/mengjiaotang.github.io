@@ -9,56 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
+A full PDF version of my CV is available [here](/files/cv.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., Applied Mathematics, Sichuan University, 2017
+* B.S., Fundamental Mathematics, Sichuan University, 2012
 
-Work experience
+Academic Appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020 -- Present: Associate Professor, School of Mathematics and Statistics, Yunnan University, Kunming, China
+  * Jointly appointed Doctoral Supervisor, Southwest United Graduate School (SWUGS), since 2025
+* 2024 -- 2025: Visiting Fellow, Dept. of Information Engineering, University of Pisa, Italy
+  * Host: Prof. Maria S. Greco (IEEE Fellow, Past President of IEEE AESS)
+* 2023 -- 2024: Visiting Scholar, DIETI, University of Naples Federico II, Italy
+  * Host: Prof. Antonio De Maio (IEEE Fellow)
+* 2017 -- 2020: Postdoctoral Researcher, Center for Information Engineering Science Research, Xi'an Jiaotong University, Xi'an, China
+  * Supervisor: Prof. X. Rong Li (IEEE Fellow)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical signal processing
+* Detection and estimation theory
+* Adaptive radar target detection
+* Robust signal processing under non-Gaussian clutter
+* Information geometry
+* Machine learning for signal processing
+* Remote sensing image analysis
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Grants and Projects
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* 2023 -- 2026: "Geometric Deep Fusion and Object Recognition for Multi-Source Remote Sensing Images," Principal Investigator, NSFC Grant No. 62263032
+* 2023 -- 2027: "Deep Fusion Theory of Remote Sensing Images and Its Applications," Project Leader, Yunnan Province Special Support Program for Talents with Outstanding Potential
+* 2023 -- 2025: "Flight Path Modeling and Optimal Inference Based on Conditionally Weak Markov Models," Principal Investigator, Open Fund of Key Laboratory of Civil Aviation Flight Technology and Flight Safety, Grant No. FZ2022KF07
+* 2020 -- 2022: "Data Fusion-Based Detection of MIMO Radar Targets Using Complex Elliptical Modelling," Principal Investigator, NSFC Grant No. 61903295
+* 2018 -- 2020: "Invariant Theory for Radar Target Detection under Non-Gaussian Clutter," Principal Investigator, China Postdoctoral Science Foundation, Grant No. 2018M643654
+
+Review and Professional Service
 ======
-* Currently signed in to 43 different slack teams
+* Peer Reviewer for over 20 manuscripts (excluding revisions) from leading international journals, the majority from IEEE Transactions on Signal Processing; other journals include Signal Processing (Elsevier), IEEE Transactions on Aerospace and Electronic Systems, IEEE Transactions on Information Theory, IEEE Signal Processing Letters, IEEE Transactions on Vehicular Technology, and IEEE Communications Letters
+* Technical Program Committee Member, IEEE Radar Conference, Florence, Italy, 2020
+
+Honors and Awards
+======
+* 2023: "Xing-Dian" Talent Support Program for Young Talents, Yunnan Province
+* 2022: Outstanding Young Scholar Award, IEEE 22nd International Conference on Communication Technology (ICCT 2022)
+* 2022: Young Elite Scientists Sponsorship Program, China Association for Science and Technology
+* 2022: First Prize, Student Excellent Achievement Award, Association for Applied Statistics of Sichuan Province
