@@ -21,7 +21,7 @@ Academic Appointments
 * 2020 -- Present: Associate Professor, School of Mathematics and Statistics, Yunnan University, Kunming, China
   * Jointly appointed Doctoral Supervisor, Southwest United Graduate School (SWUGS), since 2025
 * 2024 -- 2025: Visiting Fellow, Dept. of Information Engineering, University of Pisa, Italy
-  * Host: Prof. Maria S. Greco (IEEE Fellow, Past President of IEEE AESS)
+  * Host: Prof. Maria S. Greco (IEEE Fellow)
 * 2023 -- 2024: Visiting Scholar, DIETI, University of Naples Federico II, Italy
   * Host: Prof. Antonio De Maio (IEEE Fellow)
 * 2017 -- 2020: Postdoctoral Researcher, Center for Information Engineering Science Research, Xi'an Jiaotong University, Xi'an, China
