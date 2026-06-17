@@ -18,13 +18,13 @@ Education
 
 Academic Appointments
 ======
-* 2020 -- Present: Associate Professor, School of Mathematics and Statistics, Yunnan University, Kunming, China
+* 2020.7 -- Present: Associate Professor, School of Mathematics and Statistics, Yunnan University, Kunming, China
   * Jointly appointed Doctoral Supervisor, Southwest United Graduate School (SWUGS), since 2025
-* 2024 -- 2025: Visiting Fellow, Dept. of Information Engineering, University of Pisa, Italy
+* 2024.10 -- 2025.10: Visiting Fellow, Dept. of Information Engineering, University of Pisa, Italy
   * Host: Prof. Maria S. Greco (IEEE Fellow)
-* 2023 -- 2024: Visiting Scholar, DIETI, University of Naples Federico II, Italy
+* 2023.11 -- 2024.1: Visiting Scholar, DIETI, University of Naples Federico II, Italy
   * Host: Prof. Antonio De Maio (IEEE Fellow)
-* 2017 -- 2020: Postdoctoral Researcher, Center for Information Engineering Science Research, Xi'an Jiaotong University, Xi'an, China
+* 2017.10 -- 2020.2: Postdoctoral Researcher, Center for Information Engineering Science Research, Xi'an Jiaotong University, Xi'an, China
   * Supervisor: Prof. X. Rong Li (IEEE Fellow)
 
 Research Interests
@@ -32,9 +32,9 @@ Research Interests
 * Statistical signal processing
 * Detection and estimation theory
 * Adaptive radar target detection
-* Robust signal processing under non-Gaussian clutter
-* Information geometry
-* Machine learning for signal processing
+* Information geometric methods
+* Information geometric methods 
+* Trajectory modeling and target tracking
 * Remote sensing image analysis
 
 Publications
