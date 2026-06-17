@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in the [School of Mathematics and Statistics](http://www.ms.ynu.edu.cn/) at [Yunnan University](https://www.ynu.edu.cn/), Kunming, China, and a jointly appointed Doctoral Supervisor at the Southwest United Graduate School (SWUGS) since 2025. I am currently a Visiting Fellow at the Department of Information Engineering, [University of Pisa](https://www.unipi.it/), hosted by [Prof. Maria S. Greco](https://ieee-aess.org/contact/maria-sabrina-greco) (IEEE Fellow, Past President of IEEE AESS).
+I am an Associate Professor in the [School of Mathematics and Statistics](http://www.ms.ynu.edu.cn/) at [Yunnan University](https://www.ynu.edu.cn/), Kunming, China, and a jointly appointed Doctoral Supervisor at the Southwest United Graduate School (SWUGS) since 2025. 
 
 ## Research Interests
 
@@ -32,9 +32,13 @@ A complete list is available on [Google Scholar](https://scholar.google.com/cita
 
 2. **M. Tang**, A. Aubry, A. De Maio, and M. S. Greco, "Invariance theory for radar detection in disturbance with Kronecker product covariance structure — Part II: Compound Gaussian environment," *IEEE Trans. Signal Process.*, vol. 73, pp. 1813–1828, 2025.
 
-3. **M. Tang**, Y. Rong, and X. R. Li, "Invariance theory for adaptive detection in non-Gaussian clutter," *IEEE Trans. Signal Process.*, vol. 68, pp. 2045–2060, 2020.
+3. Y. Rong, A. Aubry, A. De Maio, and **M. Tang**, "Adaptive radar detection in Gaussian interference using clutter‐free training data," *IEEE Trans. Signal Process.*, vol. 70, pp. 978–993, 2022.
 
-4. **M. Tang**, Y. Rong, J. Zhou, and X. R. Li, "Information geometric approach to multisensor estimation fusion," *IEEE Trans. Signal Process.*, vol. 67, no. 2, pp. 279–292, 2019.
+4. C. Chen, **M. Tang**, and Y. Rong, "Detection of a rare multichannel Gaussian signal via higher criticism," *IEEE Signal Process. Lett.*, vol. 29, pp. 2063–2067, 2022.
+
+5. **M. Tang**, Y. Rong, and X. R. Li, "Invariance theory for adaptive detection in non-Gaussian clutter," *IEEE Trans. Signal Process.*, vol. 68, pp. 2045–2060, 2020.
+
+6. **M. Tang**, Y. Rong, J. Zhou, and X. R. Li, "Information geometric approach to multisensor estimation fusion," *IEEE Trans. Signal Process.*, vol. 67, no. 2, pp. 279–292, 2019.
 
 ## Contact
 
