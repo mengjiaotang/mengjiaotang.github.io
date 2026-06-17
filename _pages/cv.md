@@ -33,7 +33,7 @@ Research Interests
 * Detection and estimation theory
 * Adaptive radar target detection
 * Information geometric methods
-* Information geometric methods 
+* Estimation fusion
 * Trajectory modeling and target tracking
 * Remote sensing image analysis
 
